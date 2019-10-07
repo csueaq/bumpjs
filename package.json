@@ -1,0 +1,10 @@
+{
+  "name": "bump-test",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "koa": "^2.8.2",
+    "koa-router": "^7.4.0",
+    "node-fetch": "^2.6.0"
+  }
+}
